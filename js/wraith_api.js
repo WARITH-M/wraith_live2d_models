@@ -557,129 +557,129 @@ const message = {
 		],
 	},
 	"mouseover": [{
-		"selector": "container a[href^='http']",
-		"text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
-	},
-	{
-		"selector": "fui-home",
-		"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"]
-	},
-	{
-		"selector": "wraith-live2d-tips",
-		"text": ["一言一语，一字一句间。"]
-	},
-	{
-		"selector": "wraith-live2d-model",
-		"text": ["嗯··· 要切换 看板娘 吗？"]
-	},
-	{
-		"selector": "wraith-live2d-skin",
-		"text": ["喜欢换装 Play 吗？"]
-	},
-	{
-		"selector": "wraith-live2d-photo",
-		"text": ["要拍张纪念照片吗？"]
-	},
-	{
-		"selector": "fui-info-circle",
-		"text": ["这里有关于我的信息呢"]
-	},
-	{
-		"selector": "fui-cross",
-		"text": ["你不喜欢我了吗..."]
-	},
-	{
-		"selector": "tor_show",
-		"text": ["翻页比较麻烦吗，点击可以显示这篇文章的目录呢"]
-	},
-	{
-		"selector": "comment_go",
-		"text": ["想要去评论些什么吗？"]
-	},
-	{
-		"selector": "night_mode",
-		"text": ["深夜时要爱护眼睛呀"]
-	},
-	{
-		"selector": "qrcode",
-		"text": ["手机扫一下就能继续看，很方便呢"]
-	},
-	{
-		"selector": "comment_reply",
-		"text": ["要吐槽些什么呢"]
-	},
-	{
-		"selector": "back-to-top",
-		"text": ["回到开始的地方吧"]
-	},
-	{
-		"selector": "author",
-		"text": ["该怎么称呼你呢"]
-	},
-	{
-		"selector": "mail",
-		"text": ["留下你的邮箱，不然就是无头像人士了"]
-	},
-	{
-		"selector": "url",
-		"text": ["你的家在哪里呢，好让我去参观参观"]
-	},
-	{
-		"selector": "textarea",
-		"text": ["认真填写哦，垃圾评论是禁止事项"]
-	},
-	{
-		"selector": "OwO-logo",
-		"text": ["要插入一个表情吗"]
-	},
-	{
-		"selector": "csubmit",
-		"text": ["要[提交]^(Commit)了吗，首次评论需要审核，请耐心等待~"]
-	},
-	{
-		"selector": "ImageBox",
-		"text": ["点击图片可以放大呢"]
-	},
-	{
-		"selector": "input[name=s]",
-		"text": ["找不到想看的内容？搜索看看吧"]
-	},
-	{
-		"selector": "previous",
-		"text": ["去上一页看看吧"]
-	},
-	{
-		"selector": "next",
-		"text": ["去下一页看看吧"]
-	},
-	{
-		"selector": "dropdown-toggle",
-		"text": ["这里是菜单"]
-	},
-	{
-		"selector": "play-icon",
-		"text": ["想要听点音乐吗"]
-	},
-	{
-		"selector": "time",
-		"text": ["在这里可以调整<span style=\"color:#0099cc;\">播放进度</span>呢"]
-	},
-	{
-		"selector": "volume",
-		"text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"]
-	},
-	{
-		"selector": "list-button",
-		"text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"]
-	},
-	{
-		"selector": "lyric-button",
-		"text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"]
-	},
-	{
-		"selector": "live2d",
-		"text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"]
-	}
+			"selector": "container a[href^='http']",
+			"text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+		},
+		{
+			"selector": "fui-home",
+			"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"]
+		},
+		{
+			"selector": "wraith-live2d-tips",
+			"text": ["一言一语，一字一句间。"]
+		},
+		{
+			"selector": "wraith-live2d-model",
+			"text": ["嗯··· 要切换 看板娘 吗？"]
+		},
+		{
+			"selector": "wraith-live2d-skin",
+			"text": ["喜欢换装 Play 吗？"]
+		},
+		{
+			"selector": "wraith-live2d-photo",
+			"text": ["要拍张纪念照片吗？"]
+		},
+		{
+			"selector": "fui-info-circle",
+			"text": ["这里有关于我的信息呢"]
+		},
+		{
+			"selector": "fui-cross",
+			"text": ["你不喜欢我了吗..."]
+		},
+		{
+			"selector": "tor_show",
+			"text": ["翻页比较麻烦吗，点击可以显示这篇文章的目录呢"]
+		},
+		{
+			"selector": "comment_go",
+			"text": ["想要去评论些什么吗？"]
+		},
+		{
+			"selector": "night_mode",
+			"text": ["深夜时要爱护眼睛呀"]
+		},
+		{
+			"selector": "qrcode",
+			"text": ["手机扫一下就能继续看，很方便呢"]
+		},
+		{
+			"selector": "comment_reply",
+			"text": ["要吐槽些什么呢"]
+		},
+		{
+			"selector": "back-to-top",
+			"text": ["回到开始的地方吧"]
+		},
+		{
+			"selector": "author",
+			"text": ["该怎么称呼你呢"]
+		},
+		{
+			"selector": "mail",
+			"text": ["留下你的邮箱，不然就是无头像人士了"]
+		},
+		{
+			"selector": "url",
+			"text": ["你的家在哪里呢，好让我去参观参观"]
+		},
+		{
+			"selector": "textarea",
+			"text": ["认真填写哦，垃圾评论是禁止事项"]
+		},
+		{
+			"selector": "OwO-logo",
+			"text": ["要插入一个表情吗"]
+		},
+		{
+			"selector": "csubmit",
+			"text": ["要[提交]^(Commit)了吗，首次评论需要审核，请耐心等待~"]
+		},
+		{
+			"selector": "ImageBox",
+			"text": ["点击图片可以放大呢"]
+		},
+		{
+			"selector": "input[name=s]",
+			"text": ["找不到想看的内容？搜索看看吧"]
+		},
+		{
+			"selector": "previous",
+			"text": ["去上一页看看吧"]
+		},
+		{
+			"selector": "next",
+			"text": ["去下一页看看吧"]
+		},
+		{
+			"selector": "dropdown-toggle",
+			"text": ["这里是菜单"]
+		},
+		{
+			"selector": "play-icon",
+			"text": ["想要听点音乐吗"]
+		},
+		{
+			"selector": "time",
+			"text": ["在这里可以调整<span style=\"color:#0099cc;\">播放进度</span>呢"]
+		},
+		{
+			"selector": "volume",
+			"text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"]
+		},
+		{
+			"selector": "list-button",
+			"text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"]
+		},
+		{
+			"selector": "lyric-button",
+			"text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"]
+		},
+		{
+			"selector": "live2d",
+			"text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"]
+		}
 	],
 	"click": [
 		"是…是不小心碰到了吧",
@@ -737,7 +737,7 @@ export const loading = (params) => {
 	// 是否监听复制
 	live2d_settings.showCopyMessage = params?.showCopyMessage || true;
 	// 主页设置
-	live2d_settings.homePageUrl = params?.homePageUrl || 'http://127.0.0.1:8848/live2d_wriath/index.html';
+	live2d_settings.homePageUrl = params?.homePageUrl || 'http://www.wraith.vip/demo/live2d_wriath/index.html';
 	// 随机语句api
 	// live2d_settings.wraithMessageApi = params?.wraithMessageApi;
 
@@ -765,29 +765,29 @@ export const loading = (params) => {
 
 	// 看板娘菜单项
 	const menuObj = [{
-		id: 1,
-		label: '言',
-		class: 'wraith-live2d-tips',
-		color: menuColor,
-	},
-	{
-		id: 2,
-		label: '模',
-		class: 'wraith-live2d-model',
-		color: menuColor,
-	},
-	{
-		id: 3,
-		label: '肤',
-		class: 'wraith-live2d-skin',
-		color: menuColor,
-	},
-	{
-		id: 4,
-		label: '照',
-		class: 'wraith-live2d-photo',
-		color: menuColor,
-	}
+			id: 1,
+			label: '言',
+			class: 'wraith-live2d-tips',
+			color: menuColor,
+		},
+		{
+			id: 2,
+			label: '模',
+			class: 'wraith-live2d-model',
+			color: menuColor,
+		},
+		{
+			id: 3,
+			label: '肤',
+			class: 'wraith-live2d-skin',
+			color: menuColor,
+		},
+		{
+			id: 4,
+			label: '照',
+			class: 'wraith-live2d-photo',
+			color: menuColor,
+		}
 	];
 
 	// 获取canvas画布外层盒子元素
@@ -856,6 +856,7 @@ export const loading = (params) => {
 	// 如无操作，5秒后隐藏message
 	let timer = null;
 	hideMessageBoxEl(5000);
+	showRandText();
 	/**
 	 * 设置默认展示文本
 	 */
@@ -870,7 +871,6 @@ export const loading = (params) => {
 		const nowDate = `${getDateTime('MM')}/${getDateTime('dd')}`;
 		if (message.seasons[nowDate]) showTips(message.seasons[nowDate], 5000);
 	}
-	getDateTime();
 	/**
 	 * 获取时间
 	 */
@@ -941,10 +941,7 @@ export const loading = (params) => {
 		document.querySelector(`.${item.class}`).onclick = () => {
 			switch (item.id) {
 				case 1:
-					// 随机语句
-					const randText = params?.wraithMessageApi ||
-						message.wraith.api_message[randomNum(message.wraith.api_message.length - 1)];
-					showTips(randText);
+					showRandText();
 					break;
 				case 2:
 					// 如果当前索引超过了模型总索引，从第一个模型重新开始
@@ -995,11 +992,11 @@ export const loading = (params) => {
 	 * 监听复制剪切操作
 	 */
 	if (showCopyMessage) {
-		document.oncopy = function () {
+		document.oncopy = function() {
 			showTips(message.wraith.copy_message);
 			showMessageBoxEl();
 		};
-		document.oncut = function () {
+		document.oncut = function() {
 			showTips(message.wraith.copy_message);
 			showMessageBoxEl();
 		};
@@ -1019,6 +1016,15 @@ export const loading = (params) => {
 		const url = `${modelApi}/model/${models[curModel][curSkin]}/index.json`;
 		loadlive2d("wraith-canvas", url);
 	};
+	/**
+	 * 展示随机语句
+	 */
+	function showRandText() {
+		// 随机语句
+		const randText = params?.wraithMessageApi ||
+			message.wraith.api_message[randomNum(message.wraith.api_message.length - 1)];
+		showTips(randText);
+	}
 	/**
 	 * @param {Object} 
 	 * obj存储当前模型和皮肤的索引值
