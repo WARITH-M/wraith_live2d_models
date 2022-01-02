@@ -1061,4 +1061,3 @@ export const loading = (params) => {
 		}
 	};
 };
-console.clear();
