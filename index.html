@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport"
+			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>wraith-live2d</title>
+	</head>
+	<style>
+	</style>
+	<body>
+		<div class="model-container">
+			<canvas id="wraith-canvas" width="300" height="400"></canvas>
+		</div>
+	</body>
+	<script type="module">
+		import {
+			loading
+		} from './js/wraith_api.js';
+		// 参数配置
+		const params = {
+			modelApi: '.',
+			saveModelSkin: false,
+			modelSwitcher: 'normal',
+			canvasName: 'wraith-canvas',
+			boxName: 'model-container',
+			direction: 'right',
+			scale: 1,
+			menuFontSize: '20',
+			menuTop: '16%',
+			menuColor: '',
+			msgBorderColor: 'rgba(224, 186, 140, 0.62)',
+			msgBgColor: 'rgba(236, 217, 188, 0.5)',
+			msgShadowColor: 'rgba(236, 217, 188, 0.2)',
+			showCopyMessage:true,
+			homePageUrl:null,
+		};
+		// 设置参数
+		loading(params);
+	</script>
+</html>
